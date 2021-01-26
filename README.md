@@ -2,3 +2,4 @@
 
 Main contains the main website, which is about dogs, and includes a header, brief table of dog info followed by 3 photos of dog breed with links to the 3 other webpages
 The other 3 webpages include the same breed picture and additional information on that specific breed
+Styles.scss is the SASS file that outlines the webpages styling, style1.css is the .css file it maps too
