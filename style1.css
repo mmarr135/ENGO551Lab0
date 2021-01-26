@@ -1,0 +1,70 @@
+body {
+  padding: 10px;
+  font-size: 18px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+ol, ul {
+  color: navy;
+}
+
+div p {
+  color: navy;
+}
+
+@media (max-width: 500px) {
+  body {
+    background-color: black;
+  }
+}
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+h2 {
+  padding: 5px;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+th, td {
+  border: 2px solid black;
+  text-align: center;
+}
+
+.row > div {
+  padding: 10px;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.centertable {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.centerimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#header {
+  font-family: cursive;
+}
+
+#overview {
+  padding: 10px;
+}
+
+/*# sourceMappingURL=style1.css.map */
